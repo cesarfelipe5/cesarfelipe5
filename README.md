@@ -45,6 +45,9 @@
 <a href="https://www.java.com/pt-BR/" target="_blank">
   <img align="left" alt="Java" width="28px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/> </a>
 
+  </br>
+  </br>
+
 <a href="https://www.python.org" target="_blank">
   <img align="left" alt="Python" width="28px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> </a>
 
