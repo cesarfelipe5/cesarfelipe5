@@ -1,6 +1,6 @@
 ## Hello, I'm <strong>Cesar</strong>! 👋
 
-- :office: &nbsp; I’m currently working at [DTI](https://www.dtidigital.com.br) as Mobile Developer.
+<!-- - :office: &nbsp; I’m currently working at [DTI](https://www.dtidigital.com.br) as Mobile Developer. -->
 
 - :mortar_board: &nbsp; Graduating in Software Engineering at [State University of Ponta Grossa](https://www.uepg.br/).
 
